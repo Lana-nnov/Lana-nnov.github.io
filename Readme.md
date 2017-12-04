@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Светлана Ощепкова](https://up.htmlacademy.ru/htmlcss/17/user/398413).
+* Студент: [Светлана Ощепкова - портфолио](https://up.htmlacademy.ru/htmlcss/17/user/398413).
 * Наставник: [Ольга Одноколова](https://htmlacademy.ru/profile/id38936). 
 
 ---
