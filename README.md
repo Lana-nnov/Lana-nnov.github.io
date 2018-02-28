@@ -1,7 +1,3 @@
-About me:
-
-https://lana-nnov.github.io/rezume/
-
 Different work done by me:
 
 https://lana-nnov.github.io/cat-energy/    
