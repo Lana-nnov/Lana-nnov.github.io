@@ -19,11 +19,12 @@ body {
   display: flex;
   flex-direction: column;  
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0)), url("../img/pattern.png");
-  height: 310px;
+  height: 308px;
   background-repeat: no-repeat, repeat;
   background-size: auto, 200px 200px;
   background-color: #8cf83f;
   padding-top: 80px;
+  border-bottom: 2px solid #ffffff;	
 }
 
 .header::before {
