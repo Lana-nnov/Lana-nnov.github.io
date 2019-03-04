@@ -24,7 +24,7 @@ body {
   background-size: auto, 200px 200px;
   background-color: #8cf83f;
   padding-top: 80px;
-  border-bottom: 2px solid #ffffff;	
+  border-bottom: 2px solid #ffffff;
 }
 
 .header::before {
@@ -63,6 +63,7 @@ body {
   text-transform: uppercase;
   font-size: 21px;
   line-height: 21px;
+  margin-top: 27px;
 }	
 
 .header__container {
@@ -115,7 +116,7 @@ body {
 .header__img {
   position: absolute;
   left: 50%;
-  margin-left: -105px;
+  margin-left: -125px;
   border-radius: 50%;
   border: 10px solid #e7e7e7;
 }
@@ -252,10 +253,11 @@ body {
 }  
 
 .skills__link {
-  color: #2d3141;
+  color: #8bce44;
   text-decoration: none;
   border-bottom: 1px dotted #2d3141;
   text-transform: uppercase;
+  font-weight: bold;
 }	
 
 .skills__title { 
