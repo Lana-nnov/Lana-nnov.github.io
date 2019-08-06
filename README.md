@@ -12,6 +12,8 @@ https://inifil.com.ua/
 
 Другие работы:
 
+https://lana-nnov.github.io/398413-kekstagram-17/
+
 https://lana-nnov.github.io/cat-energy/    
 
 https://lana-nnov.github.io/mishka-adaptive/
