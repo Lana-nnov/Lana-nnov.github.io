@@ -30,19 +30,19 @@ body {
 .header::before {
   content: "";
   position: absolute;
-  bottom: 0;
+  bottom: -2px;
   right: 50%;
   border-top: 120px solid transparent;
-  border-left: 600px solid #ffffff;
+  border-left: 610px solid #ffffff;
 }
 
 .header::after {
   content: "";
   position: absolute;
-  bottom: 0;
+  bottom: -2px;
   left: 50%;
   border-top: 120px solid transparent;
-  border-right: 600px solid #ffffff;
+  border-right: 610px solid #ffffff;
 }
 
 .header__title {
